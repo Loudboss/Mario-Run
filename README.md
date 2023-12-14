@@ -30,7 +30,7 @@ Welcome to Mario Run, a simple pygame-based side-scrolling game. This README pro
 ```bash
   python main.py
 ```
-1. Game Controls:
+2. Game Controls:
   - Press SPACE or UP ARROW to make the character jump.
   - Press DOWN ARROW to make the character duck.
   - Press ESC to exit the game.
